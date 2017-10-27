@@ -1,0 +1,1 @@
+To run locally, you would only need XAMPP with the Apache Module, for the Database I used SQLite3 and all the required files are in the github repository. To run the program, copy the folder 'MyToDoList' in 'C:\xampp\htdocs\'(if you installed XAMPP in the default folder) and then in your browser go to localhost/MyToDoList.
